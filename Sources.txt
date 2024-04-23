@@ -1,0 +1,11 @@
+[Project]
+-Last tested on Wonderland Engine v1.1.6
+
+_________
+[Models]
+-Cactus: https://sketchfab.com/3d-models/cactus-pack-588596f1601d48e6ad4cb24b31c3f33c
+-Rocks: https://sketchfab.com/3d-models/desert-rock-fixed-pack-00c4468f1bca48509d7d2bd66b564cbc
+-Agumon: https://sketchfab.com/3d-models/agumon-e705259c8dca47bfadb1a164565af7b2
+
+[Audio]
+-All audio free from Pixabay
